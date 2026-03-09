@@ -1,6 +1,6 @@
-# Análise de Algoritmos - 2025.2 - UFERSA Angicos
+# Análise de Algoritmos - 2026.1 - UFERSA Angicos
 
-Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semestre 2025.2.
+Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semestre 2026.1.
 
 ---
 
