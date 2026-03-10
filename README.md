@@ -8,65 +8,89 @@ Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semes
 
 ### Aula 1 - 05/03/2026 (2,0)
 
-* **Tópicos:** Análise Assintótica, força bruta, busca linear e busca binária.
+* **Tópicos:** Algoritmo de Força Bruta, Mochila Fracionária, Métodos Gulosos.
 * **Exercícios:** [Clique aqui](unidade1/aula1).
-* **Prazo de entrega:** 09/03/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 05/03/2026 até 23:59 (inegociável)
 
-### Aula 2 - 12/03/2026 (0,0)
+### Aula 2 - 12/03/2026 (2,0)
 
-* **Tópicos:** Busca em vetor (teve SECITEC).
-* **Exercícios:** Adiados.
-* **Prazo de entrega:** --/03/2026 até --:59 (inegociável)
+* **Tópicos:** Programação Dinâmica, Método Húngaro, Codificação de Huffman.
+* **Exercícios:** [Clique aqui](unidade1/aula2).
+* **Prazo de entrega:** 12/03/2026 até 23:59 (inegociável)
 
-### Aula 3 - 26/03/2026 (3,0)
+### Aula 3 - 26/03/2026 (2,0)
 
-* **Tópicos:** Busca em vetor, algoritmos gulosos.
-* **Exercícios:** [Faça a aula 2](unidade1/aula2) e [Faça a aula 3](unidade1/aula3).
-* **Prazo de entrega:** 30/03/2026 até 23:59 (inegociável)
+* **Tópicos:** Programação Dinâmica, Método Húngaro, Codificação de Huffman.
+* **Exercícios:** [Clique aqui](unidade1/aula3).
+* **Prazo de entrega:** 26/03/2026 até 23:59 (inegociável)
 
 ---
 
 ## Unidade 2
 
-### Aula 4 - 09/04/2026 (1,0)
+### Aula 4 - 09/04/2026 (2,0)
 
-* **Tópicos:** Algoritmos gulosos.
+* **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
 * **Exercícios:** [Clique aqui](unidade2/aula4).
-* **Prazo de entrega:** 13/04/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 09/04/2026 até 23:59 (inegociável)
 
 ### Aula 5 - 16/04/2026 (2,0)
 
-* **Tópicos:** Fibonacci e hash.
-* **Exercícios:** Adiados.
-* **Prazo de entrega:** --/04/2026 até --:59 (inegociável)
+* **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
+* **Exercícios:** [Clique aqui](unidade2/aula5).
+* **Prazo de entrega:** 16/04/2026 até 23:59 (inegociável)
 
 ### Aula 6 - 23/04/2026 (2,0)
 
-* **Tópicos:** Análise de Complexidade.
-* **Exercícios:** [Faça a aula 5](unidade2/aula5) e [Faça a aula 6](unidade2/aula6).
-* **Prazo de entrega:** 27/04/2026 até 23:59 (inegociável)
+* **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
+* **Exercícios:** [Clique aqui](unidade2/aula6).
+* **Prazo de entrega:** 23/04/2026 até 23:59 (inegociável)
+
+### Aula 7 - 07/05/2026 (2,0)
+
+* **Tópicos:** Revisão de Árvores e Árvores Geradoras de Custo Mínimo.
+* **Exercícios:** [Clique aqui](unidade2/aula7).
+* **Prazo de entrega:** 07/05/2026 até 23:59 (inegociável)
+
+### Aula 8 - 14/05/2026 (2,0)
+
+* **Tópicos:** Revisão de Árvores e Árvores Geradoras de Custo Mínimo.
+* **Exercícios:** [Clique aqui](unidade2/aula8).
+* **Prazo de entrega:** 14/05/2026 até 23:59 (inegociável)
 
 ---
 
 ## Unidade 3
 
-### Aula 7 - 07/05/2026 (1,0)
+### Aula 9 - 21/05/2026 (2,0)
 
-* **Tópicos:** Árvores e Grafos.
-* **Exercícios:** [Clique aqui](unidade3/aula7).
-* **Prazo de entrega:** 11/05/2026 até 23:59 (inegociável)
-
-### Aula 8 - 14/05/2026 (3,0)
-
-* **Tópicos:** Problemas P e NP.
-* **Exercícios:** [Clique aqui](unidade3/aula8).
-* **Prazo de entrega:** 18/05/2026 até 23:59 (inegociável)
-
-### Aula 9 - 21/05/2026 (1,0)
-
-* **Tópicos:** Revisão e Exercícios Gerais.
+* **Tópicos:** Grafos: Algoritmos Elementares, Busca em Profundidade e Largura.
 * **Exercícios:** [Clique aqui](unidade3/aula9).
-* **Prazo de entrega:** 25/05/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 21/05/2026 até 23:59 (inegociável)
+
+### Aula 10 - 28/05/2026 (2,0)
+
+* **Tópicos:** Estruturas de Dados Avançadas: Heaps de Fibonacci.
+* **Exercícios:** [Clique aqui](unidade3/aula10).
+* **Prazo de entrega:** 28/05/2026 até 23:59 (inegociável)
+
+### Aula 11 - 11/06/2026 (2,0)
+
+* **Tópicos:** Estruturas de Dados Avançadas: Árvores B e Heaps Binomiais.
+* **Exercícios:** [Clique aqui](unidade3/aula11).
+* **Prazo de entrega:** 11/06/2026 até 23:59 (inegociável)
+
+### Aula 12 - 18/06/2026 (2,0)
+
+* **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
+* **Exercícios:** [Clique aqui](unidade3/aula12).
+* **Prazo de entrega:** 18/06/2026 até 23:59 (inegociável)
+
+### Aula 13 - 25/06/2026 (2,0)
+
+* **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
+* **Exercícios:** [Clique aqui](unidade3/aula13).
+* **Prazo de entrega:** 25/06/2026 até 23:59 (inegociável)
 
 ---
 
