@@ -4,91 +4,91 @@
 
 ## Unidade 1
 
-### Aula 1 - 05/03/2026 (2,0)
+### Aula 1 - 13/08/2026 (2,0)
 
 * **Tópicos:** Algoritmo de Força Bruta, Mochila Fracionária, Métodos Gulosos.
 * **Exercícios:** [Clique aqui](unidade1/aula1).
-* **Prazo de entrega:** 05/03/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 13/08/2026 até 23:59 (inegociável)
 
-### Aula 2 - 12/03/2026 (2,0)
+### Aula 2 - 20/08/2026 (2,0)
 
 * **Tópicos:** Programação Dinâmica, Método Húngaro, Codificação de Huffman.
 * **Exercícios:** [Clique aqui](unidade1/aula2).
-* **Prazo de entrega:** 12/03/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 20/08/2026 até 23:59 (inegociável)
 
-### Aula 3 - 26/03/2026 (2,0)
+### Aula 3 - 27/08/2026 (2,0)
 
 * **Tópicos:** Programação Dinâmica, Método Húngaro, Codificação de Huffman.
 * **Exercícios:** [Clique aqui](unidade1/aula3).
-* **Prazo de entrega:** 26/03/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 27/08/2026 até 23:59 (inegociável)
 
 ---
 
 ## Unidade 2
 
-### Aula 4 - 09/04/2026 (?,0)
+### Aula 4 - 03/09/2026 (?,0)
 
 * **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
 * **Exercícios:** [Clique aqui](unidade2/aula4).
-* **Prazo de entrega:** 09/04/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 03/09/2026 até 23:59 (inegociável)
 
-### Aula 5 - 16/04/2026 (?,0)
+### Aula 5 - 10/09/2026 (?,0)
 
 * **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
 * **Exercícios:** [Clique aqui](unidade2/aula5).
-* **Prazo de entrega:** 16/04/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 10/09/2026 até 23:59 (inegociável)
 
-### Aula 6 - 23/04/2026 (?,0)
+### Aula 6 - 17/09/2026 (?,0)
 
 * **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
 * **Exercícios:** [Clique aqui](unidade2/aula6).
-* **Prazo de entrega:** 23/04/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 17/09/2026 até 23:59 (inegociável)
 
-### Aula 7 - 07/05/2026 (?,0)
+### Aula 7 - 24/09/2026 (?,0)
 
 * **Tópicos:** Revisão de Árvores e Árvores Geradoras de Custo Mínimo.
 * **Exercícios:** [Clique aqui](unidade2/aula7).
-* **Prazo de entrega:** 07/05/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 24/09/2026 até 23:59 (inegociável)
 
-### Aula 8 - 14/05/202 (?,0)
+### Aula 8 - 01/10/2026 (?,0)
 
 * **Tópicos:** Revisão de Árvores e Árvores Geradoras de Custo Mínimo.
 * **Exercícios:** [Clique aqui](unidade2/aula8).
-* **Prazo de entrega:** 14/05/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 01/10/2026 até 23:59 (inegociável)
 
 ---
 
 ## Unidade 3
 
-### Aula 9 - 21/05/2026 (?,0)
+### Aula 9 - 08/10/2026 (?,0)
 
 * **Tópicos:** Grafos: Algoritmos Elementares, Busca em Profundidade e Largura.
 * **Exercícios:** [Clique aqui](unidade3/aula9).
-* **Prazo de entrega:** 21/05/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 08/10/2026 até 23:59 (inegociável)
 
-### Aula 10 - 28/05/2026 (?,0)
+### Aula 10 - 15/10/2026 (?,0)
 
 * **Tópicos:** Estruturas de Dados Avançadas: Heaps de Fibonacci.
 * **Exercícios:** [Clique aqui](unidade3/aula10).
-* **Prazo de entrega:** 28/05/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 15/10/2026 até 23:59 (inegociável)
 
-### Aula 11 - 11/06/2026 (?,0)
+### Aula 11 - 22/10/2026 (?,0)
 
 * **Tópicos:** Estruturas de Dados Avançadas: Árvores B e Heaps Binomiais.
 * **Exercícios:** [Clique aqui](unidade3/aula11).
-* **Prazo de entrega:** 11/06/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 22/10/2026 até 23:59 (inegociável)
 
-### Aula 12 - 18/06/2026 (?,0)
+### Aula 12 - 29/10/2026 (?,0)
 
 * **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
 * **Exercícios:** [Clique aqui](unidade3/aula12).
-* **Prazo de entrega:** 18/06/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 29/10/2026 até 23:59 (inegociável)
 
-### Aula 13 - 25/06/2026 (?,0)
+### Aula 13 - 05/11/2026 (?,0)
 
 * **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
 * **Exercícios:** [Clique aqui](unidade3/aula13).
-* **Prazo de entrega:** 25/06/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 05/11/2026 até 23:59 (inegociável)
 
 ---
 
