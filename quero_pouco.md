@@ -2,7 +2,7 @@
 
 ---
 
-## Quero pouco (nota 5,0 na média)
+## Quero pouco (nota 5,0 na média) - Entregue até 04/12/2026.
 
 1 - Crie um repositório privado no formato analiseAlgoritmos_2026.2_primeironomeSegundonome. Adicione a conta xhycko como colaborador. Para todas as questões, organize o repositório para que outra pessoa consiga reproduzir os experimentos. Ao resolver, execute pelo menos três vezes, registre os tempos individuais e a média, apresente os resultados em tabela e gráficos, analise os resultados, disponibilize o código fonte e o prompt (se usar).
 
